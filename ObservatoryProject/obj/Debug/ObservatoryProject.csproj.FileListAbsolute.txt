@@ -1,0 +1,6 @@
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio9\ObservatoryProject\bin\Debug\ObservatoryProject.dll
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio9\ObservatoryProject\bin\Debug\ObservatoryProject.pdb
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio9\ObservatoryProject\obj\Debug\ObservatoryProject.csproj.AssemblyReference.cache
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio9\ObservatoryProject\obj\Debug\ObservatoryProject.csproj.CoreCompileInputs.cache
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio9\ObservatoryProject\obj\Debug\ObservatoryProject.dll
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio9\ObservatoryProject\obj\Debug\ObservatoryProject.pdb
